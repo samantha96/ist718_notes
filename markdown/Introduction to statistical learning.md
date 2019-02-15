@@ -31,7 +31,7 @@
 - We wish to estimate the *unknown **p*** from such data, but it's too complicated to estimate it directly.
 - So,for estimating  𝑓, we add some noise into the system:<br/>
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/error.png" width=30%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/error.png" width=40%>
 </p>
 
 - Estimating 𝑓 for prediction or inference
@@ -44,7 +44,7 @@
 ## How do we estimate 𝑓 ?
 - **Parametric methods** :
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=25%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=30%>
 </p>
 	
 - **Nonparametric methods** :
@@ -53,13 +53,13 @@
 ## Two views on statistical learning
 - **Bayesian statistics** :
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/bayesian.png" width=30%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/bayesian.png" width=35%>
 </p>
 
 - **Frequentist statistics** :
 	- Maximum Likelihood Estimation (MLE)
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=20%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=30%>
 </p>
 
 	 
