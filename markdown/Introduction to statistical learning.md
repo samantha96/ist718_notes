@@ -44,7 +44,7 @@
 ## How do we estimate 𝑓 ?
 - **Parametric methods** :
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=30%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=35%>
 </p>
 	
 - **Nonparametric methods** :
@@ -53,13 +53,13 @@
 ## Two views on statistical learning
 - **Bayesian statistics** :
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/bayesian.png" width=35%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/bayesian.png" width=40%>
 </p>
 
 - **Frequentist statistics** :
 	- Maximum Likelihood Estimation (MLE)
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=30%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=35%>
 </p>
 
 	 
