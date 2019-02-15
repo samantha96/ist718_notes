@@ -38,7 +38,7 @@
 	-  inference: learn from the output(more valuable)
 - **Loss function** :<br/> 
 <p align="center">
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/loss%20function.png" width=50%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/Loss%20function.png" width=50%>
 </p>
 
 ## How do we estimate 𝑓 ?
