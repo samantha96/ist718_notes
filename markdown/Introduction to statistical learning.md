@@ -38,13 +38,13 @@
 	-  inference: learn from the output(more valuable)
 - **Loss function** :<br/> 
 <p align="center">
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/loss%20function.png" width=45%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/loss%20function.png" width=50%>
 </p>
 
 ## How do we estimate 𝑓 ?
 - **Parametric methods** :
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=35%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/theta.png" width=30%>
 </p>
 	
 - **Nonparametric methods** :
@@ -59,7 +59,7 @@
 - **Frequentist statistics** :
 	- Maximum Likelihood Estimation (MLE)
 <p align="center">	
-<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=35%>
+<img src="https://github.com/samantha96/ist718_notes/blob/master/markdown/image/MLE.png" width=30%>
 </p>
 
 	 
