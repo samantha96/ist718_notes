@@ -31,7 +31,7 @@
 - We wish to estimate the *unknown **p*** from such data, but it's too complicated to estimate it directly.
 - So,for estimating  𝑓, we add some noise into the system:<br/>
 <p align="center">	
-<img src="https://github.com/samantha96/IST718/blob/master/error.png" width=30%>
+<img src="error.png" width=30%>
 </p>
 
 - Estimating 𝑓 for prediction or inference
